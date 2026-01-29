@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**kiseki1011/kiseki1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Seungki Kim.
 
-Here are some ideas to get you started:
+I'm currently building [Tissue](!https://github.com/kiseki1011/TISSUE), a self-hosted issue tracking and collaboration platform with a TUI client.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm intertested in:
+- Backend Engineering
+- Terminal applications
+- Writing readable documentations
+
+Tech Stacks:
+- Java
+- Spring Boot
+- JPA(Hibernate)
+- Spring Security
+- Redis
+- Python
+- Airflow
+- PySpark
+- Pandas
