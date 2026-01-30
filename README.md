@@ -8,6 +8,7 @@ I'm intertested in:
 - Building reliable backend systems
 - Terminal applications
 - Writing readable documentations
+- Free and Open Source Software (FOSS)
 
 Tech Stacks:
 
