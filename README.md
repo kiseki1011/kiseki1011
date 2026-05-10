@@ -2,10 +2,10 @@
 
 I'm Seungki Kim.
 
-I'm currently building [Tissue](https://github.com/kiseki1011/TISSUE), a self-hosted issue tracking and collaboration platform with a TUI client.
+I'm currently building [Tissue](https://github.com/kiseki1011/TISSUE), a self-hosted issue tracking and collaboration software with a TUI client.
 
 I'm intertested in:
-- Building reliable backend systems
+- Backend systems
 - Terminal applications
 - Writing readable documentations
 - Free and Open Source Software (FOSS)
